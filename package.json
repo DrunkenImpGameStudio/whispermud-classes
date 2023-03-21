@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "name": "bundle-example-classes",
+  "name": "whispermud-classes",
   "version": "1.0.0",
   "description": "",
   "dependencies": {

@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, SkillType } = require('ranvier');
+const { Broadcast, SkillType } = require('whispermud');
 const Combat = require('../../bundle-example-combat/lib/Combat');
 
 // config placed here just for easy copy/paste of this skill later on

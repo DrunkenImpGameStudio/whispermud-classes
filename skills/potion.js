@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, Heal, SkillType } = require('ranvier');
+const { Broadcast, Heal, SkillType } = require('whispermud');
 
 /**
  * Health potion item spell

@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, EffectFlag, Heal, Player } = require('ranvier');
+const { Broadcast, EffectFlag, Heal, Player } = require('whispermud');
 
 module.exports = {
   config: {

@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, Damage, EffectFlag } = require('ranvier');
+const { Broadcast, Damage, EffectFlag } = require('whispermud');
 
 /**
  * Implementation effect for a Rend damage over time skill

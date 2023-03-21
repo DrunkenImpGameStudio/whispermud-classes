@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, Damage, SkillType } = require('ranvier');
+const { Broadcast, Damage, SkillType } = require('whispermud');
 const Combat = require('../../bundle-example-combat/lib/Combat');
 
 const damagePercent = 250;

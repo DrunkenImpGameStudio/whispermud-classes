@@ -1,6 +1,6 @@
 'use strict';
 
-const { SkillFlag, SkillType } = require('ranvier');
+const { SkillFlag, SkillType } = require('whispermud');
 
 const interval = 2 * 60;
 const threshold = 30;

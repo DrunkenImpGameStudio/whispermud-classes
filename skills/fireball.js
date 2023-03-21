@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, Damage, SkillType } = require('ranvier');
+const { Broadcast, Damage, SkillType } = require('whispermud');
 
 const damagePercent = 100;
 const manaCost = 80;

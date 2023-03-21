@@ -1,9 +1,9 @@
 'use strict';
 
 const humanize = (sec) => { return require('humanize-duration')(sec, { round: true }); };
-const { Broadcast: B, Logger, SkillErrors } = require('ranvier');
-const Combat = require('../bundle-example-combat/lib/Combat');
-const CombatErrors = require('../bundle-example-combat/lib/CombatErrors');
+const { Broadcast: B, Logger, SkillErrors } = require('whispermud');
+const Combat = require('../whispermud-combat/lib/Combat');
+const CombatErrors = require('../whispermud-combat/lib/CombatErrors');
 
 module.exports = {
   listeners: {

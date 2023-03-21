@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, EffectFlag, Heal } = require('ranvier');
+const { Broadcast, EffectFlag, Heal } = require('whispermud');
 
 /**
  * Implementation effect for second wind skill

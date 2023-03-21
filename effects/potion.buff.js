@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, EffectFlag } = require('ranvier');
+const { Broadcast, EffectFlag } = require('whispermud');
 
 module.exports = {
   config: {

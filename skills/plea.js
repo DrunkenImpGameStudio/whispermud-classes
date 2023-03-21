@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, Heal } = require('ranvier');
+const { Broadcast, Heal } = require('whispermud');
 
 const healPercent = 20;
 const favorCost = 5;

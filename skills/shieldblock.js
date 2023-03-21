@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, SkillType } = require('ranvier');
+const { Broadcast, SkillType } = require('whispermud');
 
 // config placed here just for easy configuration of this skill later on
 const cooldown = 45;
