@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, SkillType } = require('whispermud');
+const { Broadcast, SkillType } = require('whispermud-core');
 
 // config placed here just for easy configuration of this skill later on
 const cooldown = 45;

@@ -1,6 +1,6 @@
 'use strict';
 
-const { SkillFlag, SkillType } = require('whispermud');
+const { SkillFlag, SkillType } = require('whispermud-core');
 
 const interval = 2 * 60;
 const threshold = 30;

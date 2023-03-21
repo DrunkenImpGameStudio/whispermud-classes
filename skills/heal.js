@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast: B, Heal, SkillType } = require('whispermud');
+const { Broadcast: B, Heal, SkillType } = require('whispermud-core');
 
 const healPercent = 300;
 const energyCost = 40;

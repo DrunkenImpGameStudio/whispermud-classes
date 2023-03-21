@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, Damage, EffectFlag } = require('whispermud');
+const { Broadcast, Damage, EffectFlag } = require('whispermud-core');
 
 /**
  * Implementation effect for a Rend damage over time skill

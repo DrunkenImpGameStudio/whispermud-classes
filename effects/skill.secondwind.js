@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, EffectFlag, Heal } = require('whispermud');
+const { Broadcast, EffectFlag, Heal } = require('whispermud-core');
 
 /**
  * Implementation effect for second wind skill

@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast: B, SkillFlag } = require('whispermud');
+const { Broadcast: B, SkillFlag } = require('whispermud-core');
 
 module.exports = {
   aliases: [ "spell" ],

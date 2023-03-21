@@ -1,7 +1,7 @@
 'use strict';
 
-const { Broadcast, Damage, Heal, SkillType } = require('whispermud');
-const Combat = require('../../bundle-example-combat/lib/Combat');
+const { Broadcast, Damage, Heal, SkillType } = require('whispermud-core');
+const Combat = require('../../whispermud-combat/lib/Combat');
 
 // config placed here just for easy copy/paste of this skill later on
 const cooldown = 4;

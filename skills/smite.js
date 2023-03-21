@@ -1,7 +1,7 @@
 'use strict';
 
-const { Broadcast, Damage } = require('whispermud');
-const Combat = require('../../bundle-example-combat/lib/Combat');
+const { Broadcast, Damage } = require('whispermud-core');
+const Combat = require('../../whispermud-combat/lib/Combat');
 
 const cooldown = 10;
 const damagePercent = 350;

@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, Heal, SkillType } = require('whispermud');
+const { Broadcast, Heal, SkillType } = require('whispermud-core');
 
 /**
  * Health potion item spell

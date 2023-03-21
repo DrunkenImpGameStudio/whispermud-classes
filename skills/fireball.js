@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, Damage, SkillType } = require('whispermud');
+const { Broadcast, Damage, SkillType } = require('whispermud-core');
 
 const damagePercent = 100;
 const manaCost = 80;

@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, EffectFlag, Heal, Player } = require('whispermud');
+const { Broadcast, EffectFlag, Heal, Player } = require('whispermud-core');
 
 module.exports = {
   config: {

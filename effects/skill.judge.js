@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, EffectFlag, Heal } = require('whispermud');
+const { Broadcast, EffectFlag, Heal } = require('whispermud-core');
 
 /**
  * Effect applied by Judge skill. Reduces damage done.

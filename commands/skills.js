@@ -1,7 +1,7 @@
 'use strict';
 
 const sprintf = require('sprintf-js').sprintf;
-const { Broadcast: B, Logger } = require('whispermud');
+const { Broadcast: B, Logger } = require('whispermud-core');
 
 module.exports = {
   aliases: ['abilities', 'spells'],

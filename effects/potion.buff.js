@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, EffectFlag } = require('whispermud');
+const { Broadcast, EffectFlag } = require('whispermud-core');
 
 module.exports = {
   config: {
